@@ -1,0 +1,2 @@
+# Ignores compiled TypeScript files
+**/*.js
