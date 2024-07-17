@@ -1,4 +1,2 @@
 # Ignores compiled TypeScript files
 **/*.js
-**/*.json
-**/.vscode
